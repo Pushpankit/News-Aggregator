@@ -14,7 +14,7 @@ Make sure you have Node.js and npm installed on your machine. You can download t
 
    ```sh
    git clone https://github.com/Pushpankit/News-Aggregator-.git
-   cd News-Aggregator-
+   cd my-app
 
 2. **Install dependencies:**
    
